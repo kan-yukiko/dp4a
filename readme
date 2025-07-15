@@ -11,7 +11,7 @@
 
 ## 📁 内容構成
 - `notebooks/`：章ごとのJupyterノートブック（Colab対応）
-- `datasets/`：サンプルデータ（CSVなど）
+- `data/`：サンプルデータ（CSVなど）
 - `README.md`：このページです
 
 ## 🚀 使い方
