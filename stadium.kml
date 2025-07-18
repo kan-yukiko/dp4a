@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Zoom-Zoomスタジアム KML</name>
+    <Placemark>
+      <name>Mazda Zoom-Zoom スタジアム</name>
+      <description>広島東洋カープの本拠地</description>
+      <Point>
+        <coordinates>132.484444,34.385278,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
